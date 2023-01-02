@@ -1,0 +1,17 @@
+
+/* layout component */
+.main {
+  width: 100%;
+  padding: 0.6rem 0;
+}
+
+.container {
+  width: 100%;
+  margin: 0rem;
+}
+/* ShopTitle */
+.ShopTitle{
+  text-align: center;
+  letter-spacing: 5px;
+  background: #6e6e6e18;
+}
